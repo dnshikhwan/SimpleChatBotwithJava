@@ -1,0 +1,38 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chat Bot with Java/*
+!/Simple Chat Bot with Java/task/
+/Simple Chat Bot with Java/task/*
+!/Simple Chat Bot with Java/task/src
+
+# Project exclude paths
+/Topics/Boolean type and operations. True and false/Checking if a number is even or odd/out/
+/Topics/Boolean type and operations. True and false/Checking if a number is even or odd/out/production/classes/
+/Topics/Comparing values. Relational operators/Boys in a sport class/out/
+/Topics/Comparing values. Relational operators/Boys in a sport class/out/production/classes/
+/Topics/Comparing values. Relational operators/Check the value/out/
+/Topics/Comparing values. Relational operators/Check the value/out/production/classes/
+/Topics/Floating-point types/Celsius to Fahrenheit/out/
+/Topics/Floating-point types/Celsius to Fahrenheit/out/production/classes/
+/Topics/Floating-point types/Liquid pressure/out/
+/Topics/Floating-point types/Liquid pressure/out/production/classes/
+/Topics/For loop/Generate an inverted pyramid from asterisks/out/
+/Topics/For loop/Generate an inverted pyramid from asterisks/out/production/classes/
+/Topics/For loop/Grades/out/
+/Topics/For loop/Grades/out/production/classes/
+/Topics/For loop/Numbers divisible by six/out/
+/Topics/For loop/Numbers divisible by six/out/production/classes/
+/Topics/For loop/The count of numbers divisible by N/out/
+/Topics/For loop/The count of numbers divisible by N/out/production/classes/
+/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/out/
+/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/out/production/classes/
